@@ -1,0 +1,90 @@
+2026-01-30 17:45:18,774 - INFO - 开始处理目录: test_dir
+2026-01-30 17:45:18,775 - INFO - 开始时间: 2026-01-30 17:45:18
+2026-01-30 17:45:18,775 - INFO - === 预览模式 ===
+2026-01-30 17:45:18,775 - INFO - 找到 1 个需要修改的文件:
+2026-01-30 17:45:18,775 - INFO - 将修改: test_dir\test1.adoc.docx -> test_dir\test1.docx
+2026-01-30 17:45:18,775 - INFO - === 预览完成 ===
+2026-01-30 17:45:18,776 - INFO - 结束时间: 2026-01-30 17:45:18
+2026-01-30 17:45:30,077 - INFO - 开始处理目录: test_dir
+2026-01-30 17:45:30,077 - INFO - 开始时间: 2026-01-30 17:45:30
+2026-01-30 17:45:30,077 - INFO - === 执行模式 ===
+2026-01-30 17:45:30,078 - INFO - 成功修改: test_dir\test1.adoc.docx -> test_dir\test1.docx
+2026-01-30 17:45:30,079 - INFO - === 执行完成 ===
+2026-01-30 17:45:30,079 - INFO - 成功修改: 1 个文件
+2026-01-30 17:45:30,079 - INFO - 修改失败: 0 个文件
+2026-01-30 17:45:30,079 - INFO - 结束时间: 2026-01-30 17:45:30
+2026-01-30 17:50:29,684 - INFO - 开始处理目录: E:\StudyLearningNote\管理与领导
+2026-01-30 17:50:29,689 - INFO - 开始时间: 2026-01-30 17:50:29
+2026-01-30 17:50:29,689 - INFO - === 执行模式 ===
+2026-01-30 17:50:29,689 - INFO - 成功修改: E:\StudyLearningNote\管理与领导\01.管理管的是什么.adoc.docx -> E:\StudyLearningNote\管理与领导\01.管理管的是什么.docx
+2026-01-30 17:50:29,690 - INFO - 成功修改: E:\StudyLearningNote\管理与领导\02.赛马机制什么时候用.adoc.docx -> E:\StudyLearningNote\管理与领导\02.赛马机制什么时候用.docx
+2026-01-30 17:50:29,690 - INFO - 成功修改: E:\StudyLearningNote\管理与领导\03.高效开会.adoc.docx -> E:\StudyLearningNote\管理与领导\03.高效开会.docx
+2026-01-30 17:50:29,690 - INFO - 成功修改: E:\StudyLearningNote\管理与领导\04.如何管理00后.adoc.docx -> E:\StudyLearningNote\管理与领导\04.如何管理00后.docx
+2026-01-30 17:50:29,691 - INFO - 成功修改: E:\StudyLearningNote\管理与领导\05.怎样才能把工作和生活分开.adoc.docx -> E:\StudyLearningNote\管理与领导\05.怎样才能把工作和生活分开.docx
+2026-01-30 17:50:29,691 - INFO - 成功修改: E:\StudyLearningNote\管理与领导\06.如何让一盘散沙的团队凝聚起来.adoc.docx -> E:\StudyLearningNote\管理与领导\06.如何让一盘散沙的团队凝聚起来.docx
+2026-01-30 17:50:29,692 - INFO - 成功修改: E:\StudyLearningNote\管理与领导\07.如何组织一场有效的复盘.adoc.docx -> E:\StudyLearningNote\管理与领导\07.如何组织一场有效的复盘.docx
+2026-01-30 17:50:29,692 - INFO - 成功修改: E:\StudyLearningNote\管理与领导\08.好的管理者如何给下属定目标.adoc.docx -> E:\StudyLearningNote\管理与领导\08.好的管理者如何给下属定目标.docx
+2026-01-30 17:50:29,693 - INFO - 成功修改: E:\StudyLearningNote\管理与领导\09.如何在面试中识别优秀员工.adoc.docx -> E:\StudyLearningNote\管理与领导\09.如何在面试中识别优秀员工.docx
+2026-01-30 17:50:29,693 - INFO - 成功修改: E:\StudyLearningNote\管理与领导\10.被提拔后做什么能让领导更赏识.adoc.docx -> E:\StudyLearningNote\管理与领导\10.被提拔后做什么能让领导更赏识.docx
+2026-01-30 17:50:29,694 - INFO - 成功修改: E:\StudyLearningNote\管理与领导\11.如何征服能力强的员工.adoc.docx -> E:\StudyLearningNote\管理与领导\11.如何征服能力强的员工.docx
+2026-01-30 17:50:29,694 - INFO - 成功修改: E:\StudyLearningNote\管理与领导\12.如何推进工作中的卡点.adoc.docx -> E:\StudyLearningNote\管理与领导\12.如何推进工作中的卡点.docx
+2026-01-30 17:50:29,695 - INFO - 成功修改: E:\StudyLearningNote\管理与领导\13.工作中如何做好平级的协调工作.adoc.docx -> E:\StudyLearningNote\管理与领导\13.工作中如何做好平级的协调工作.docx
+2026-01-30 17:50:29,696 - INFO - 成功修改: E:\StudyLearningNote\管理与领导\14.画饼的正确姿势.adoc.docx -> E:\StudyLearningNote\管理与领导\14.画饼的正确姿势.docx
+2026-01-30 17:50:29,696 - INFO - 成功修改: E:\StudyLearningNote\管理与领导\15.好的工作标准是什么.adoc.docx -> E:\StudyLearningNote\管理与领导\15.好的工作标准是什么.docx
+2026-01-30 17:50:29,697 - INFO - 成功修改: E:\StudyLearningNote\管理与领导\16.怎么不被工作累垮.adoc.docx -> E:\StudyLearningNote\管理与领导\16.怎么不被工作累垮.docx
+2026-01-30 17:50:29,697 - INFO - 成功修改: E:\StudyLearningNote\管理与领导\17.如何培养自己的领导力气场.adoc.docx -> E:\StudyLearningNote\管理与领导\17.如何培养自己的领导力气场.docx
+2026-01-30 17:50:29,697 - INFO - === 执行完成 ===
+2026-01-30 17:50:29,698 - INFO - 成功修改: 17 个文件
+2026-01-30 17:50:29,698 - INFO - 修改失败: 0 个文件
+2026-01-30 17:50:29,698 - INFO - 结束时间: 2026-01-30 17:50:29
+2026-01-30 17:50:43,971 - INFO - 开始处理目录: E:\StudyLearningNote\职场
+2026-01-30 17:50:43,972 - INFO - 开始时间: 2026-01-30 17:50:43
+2026-01-30 17:50:43,972 - INFO - === 执行模式 ===
+2026-01-30 17:50:43,973 - INFO - 成功修改: E:\StudyLearningNote\职场\01.哪些领导适合私交.adoc.docx -> E:\StudyLearningNote\职场\01.哪些领导适合私交.docx
+2026-01-30 17:50:43,973 - INFO - 成功修改: E:\StudyLearningNote\职场\02.分辨好公司.adoc.docx -> E:\StudyLearningNote\职场\02.分辨好公司.docx
+2026-01-30 17:50:43,973 - INFO - 成功修改: E:\StudyLearningNote\职场\03.与领导相处.adoc.docx -> E:\StudyLearningNote\职场\03.与领导相处.docx
+2026-01-30 17:50:43,974 - INFO - 成功修改: E:\StudyLearningNote\职场\04.职场要摆脱的学生思维.adoc.docx -> E:\StudyLearningNote\职场\04.职场要摆脱的学生思维.docx
+2026-01-30 17:50:43,974 - INFO - 成功修改: E:\StudyLearningNote\职场\05.职场潜台词.adoc.docx -> E:\StudyLearningNote\职场\05.职场潜台词.docx
+2026-01-30 17:50:43,974 - INFO - 成功修改: E:\StudyLearningNote\职场\06.如何和领导建立私交.adoc.docx -> E:\StudyLearningNote\职场\06.如何和领导建立私交.docx
+2026-01-30 17:50:43,975 - INFO - 成功修改: E:\StudyLearningNote\职场\07.职场上如何站队.adoc.docx -> E:\StudyLearningNote\职场\07.职场上如何站队.docx
+2026-01-30 17:50:43,975 - INFO - 成功修改: E:\StudyLearningNote\职场\08.职场里被恶意针对怎么办.adoc.docx -> E:\StudyLearningNote\职场\08.职场里被恶意针对怎么办.docx
+2026-01-30 17:50:43,975 - INFO - 成功修改: E:\StudyLearningNote\职场\09.什么样的领导值得追随.adoc.docx -> E:\StudyLearningNote\职场\09.什么样的领导值得追随.docx
+2026-01-30 17:50:43,976 - INFO - 成功修改: E:\StudyLearningNote\职场\10.职场上有人被刺你怎么办.adoc.docx -> E:\StudyLearningNote\职场\10.职场上有人被刺你怎么办.docx
+2026-01-30 17:50:43,976 - INFO - 成功修改: E:\StudyLearningNote\职场\11.面对甩锅如何甩回去.adoc.docx -> E:\StudyLearningNote\职场\11.面对甩锅如何甩回去.docx
+2026-01-30 17:50:43,976 - INFO - 成功修改: E:\StudyLearningNote\职场\12.被提拔后做什么能让领导更赏识.adoc.docx -> E:\StudyLearningNote\职场\12.被提拔后做什么能让领导更赏识.docx
+2026-01-30 17:50:43,977 - INFO - 成功修改: E:\StudyLearningNote\职场\13.领导加活不加钱如何解决.adoc.docx -> E:\StudyLearningNote\职场\13.领导加活不加钱如何解决.docx
+2026-01-30 17:50:43,977 - INFO - 成功修改: E:\StudyLearningNote\职场\14.职场中如何向上曝光.adoc.docx -> E:\StudyLearningNote\职场\14.职场中如何向上曝光.docx
+2026-01-30 17:50:43,978 - INFO - 成功修改: E:\StudyLearningNote\职场\15.如何驯服强势领导.adoc.docx -> E:\StudyLearningNote\职场\15.如何驯服强势领导.docx
+2026-01-30 17:50:43,978 - INFO - 成功修改: E:\StudyLearningNote\职场\16.如何在面试中识别公司好坏.adoc.docx -> E:\StudyLearningNote\职场\16.如何在面试中识别公司好坏.docx
+2026-01-30 17:50:43,979 - INFO - 成功修改: E:\StudyLearningNote\职场\17.普通人如何积累原始资本.adoc.docx -> E:\StudyLearningNote\职场\17.普通人如何积累原始资本.docx
+2026-01-30 17:50:43,979 - INFO - 成功修改: E:\StudyLearningNote\职场\18.新晋领导应该注意什么.adoc.docx -> E:\StudyLearningNote\职场\18.新晋领导应该注意什么.docx
+2026-01-30 17:50:43,980 - INFO - 成功修改: E:\StudyLearningNote\职场\19.老板提拔管理者的标准有哪些.adoc.docx -> E:\StudyLearningNote\职场\19.老板提拔管理者的标准有哪些.docx
+2026-01-30 17:50:43,980 - INFO - 成功修改: E:\StudyLearningNote\职场\20.初入职场最应该注意什么.adoc.docx -> E:\StudyLearningNote\职场\20.初入职场最应该注意什么.docx
+2026-01-30 17:50:43,980 - INFO - === 执行完成 ===
+2026-01-30 17:50:43,980 - INFO - 成功修改: 20 个文件
+2026-01-30 17:50:43,980 - INFO - 修改失败: 0 个文件
+2026-01-30 17:50:43,981 - INFO - 结束时间: 2026-01-30 17:50:43
+2026-01-30 17:51:02,067 - INFO - 开始处理目录: E:\StudyLearningNote\个人成长
+2026-01-30 17:51:02,067 - INFO - 开始时间: 2026-01-30 17:51:02
+2026-01-30 17:51:02,068 - INFO - === 执行模式 ===
+2026-01-30 17:51:02,068 - INFO - 成功修改: E:\StudyLearningNote\个人成长\01.主业与副业.adoc.docx -> E:\StudyLearningNote\个人成长\01.主业与副业.docx
+2026-01-30 17:51:02,069 - INFO - 成功修改: E:\StudyLearningNote\个人成长\02.《超级沟通者》.adoc.docx -> E:\StudyLearningNote\个人成长\02.《超级沟通者》.docx
+2026-01-30 17:51:02,069 - INFO - 成功修改: E:\StudyLearningNote\个人成长\03.如何快速破冰拉近社交关系.adoc.docx -> E:\StudyLearningNote\个人成长\03.如何快速破冰拉近社交关系.docx
+2026-01-30 17:51:02,069 - INFO - 成功修改: E:\StudyLearningNote\个人成长\04.如何拥有强大自信.adoc.docx -> E:\StudyLearningNote\个人成长\04.如何拥有强大自信.docx
+2026-01-30 17:51:02,070 - INFO - 成功修改: E:\StudyLearningNote\个人成长\05.消费真的降级了吗.adoc.docx -> E:\StudyLearningNote\个人成长\05.消费真的降级了吗.docx
+2026-01-30 17:51:02,070 - INFO - 成功修改: E:\StudyLearningNote\个人成长\06.如何面对爱扫兴的人.adoc.docx -> E:\StudyLearningNote\个人成长\06.如何面对爱扫兴的人.docx
+2026-01-30 17:51:02,070 - INFO - 成功修改: E:\StudyLearningNote\个人成长\07.如何拥有稳定的情绪内核.adoc.docx -> E:\StudyLearningNote\个人成长\07.如何拥有稳定的情绪内核.docx
+2026-01-30 17:51:02,071 - INFO - 成功修改: E:\StudyLearningNote\个人成长\08.长期摆烂后如何快速自律.adoc.docx -> E:\StudyLearningNote\个人成长\08.长期摆烂后如何快速自律.docx
+2026-01-30 17:51:02,071 - INFO - 成功修改: E:\StudyLearningNote\个人成长\09.面对他人提出请求如何体面拒绝.adoc.docx -> E:\StudyLearningNote\个人成长\09.面对他人提出请求如何体面拒绝.docx
+2026-01-30 17:51:02,071 - INFO - 成功修改: E:\StudyLearningNote\个人成长\10.如何低成本识人.adoc.docx -> E:\StudyLearningNote\个人成长\10.如何低成本识人.docx
+2026-01-30 17:51:02,072 - INFO - 成功修改: E:\StudyLearningNote\个人成长\11.如何防范社交中的捧杀.adoc.docx -> E:\StudyLearningNote\个人成长\11.如何防范社交中的捧杀.docx
+2026-01-30 17:51:02,072 - INFO - 成功修改: E:\StudyLearningNote\个人成长\12.如何快速自学一个新领域.adoc.docx -> E:\StudyLearningNote\个人成长\12.如何快速自学一个新领域.docx
+2026-01-30 17:51:02,072 - INFO - 成功修改: E:\StudyLearningNote\个人成长\13.如何培养强者思维.adoc.docx -> E:\StudyLearningNote\个人成长\13.如何培养强者思维.docx
+2026-01-30 17:51:02,073 - INFO - 成功修改: E:\StudyLearningNote\个人成长\14.如何培养强大气场.adoc.docx -> E:\StudyLearningNote\个人成长\14.如何培养强大气场.docx
+2026-01-30 17:51:02,073 - INFO - 成功修改: E:\StudyLearningNote\个人成长\15.如何说服别人.adoc.docx -> E:\StudyLearningNote\个人成长\15.如何说服别人.docx
+2026-01-30 17:51:02,078 - INFO - 成功修改: E:\StudyLearningNote\个人成长\16.如何高情商夸人.adoc.docx -> E:\StudyLearningNote\个人成长\16.如何高情商夸人.docx
+2026-01-30 17:51:02,079 - INFO - 成功修改: E:\StudyLearningNote\个人成长\17.如何构建清晰的逻辑思维.adoc.docx -> E:\StudyLearningNote\个人成长\17.如何构建清晰的逻辑思维.docx
+2026-01-30 17:51:02,079 - INFO - === 执行完成 ===
+2026-01-30 17:51:02,079 - INFO - 成功修改: 17 个文件
+2026-01-30 17:51:02,079 - INFO - 修改失败: 0 个文件
+2026-01-30 17:51:02,079 - INFO - 结束时间: 2026-01-30 17:51:02
